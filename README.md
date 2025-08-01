@@ -68,8 +68,11 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 ---
 
 ## 📸 Screenshot (Optional)
-<img width="1920" height="1080" alt="Screenshot 2025-08-01 200929" src="https://github.com/user-attachments/assets/936547e5-f9f6-45ca-9663-2ef7c2f370df" />
-<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/f8b97fe8-3337-4665-837a-df96a7243a67" />
+
+<img width="1920" height="896" alt="image" src="https://github.com/user-attachments/assets/e70683a3-14ca-48f4-a079-baf8af1b75bd" />
+<img width="1920" height="894" alt="image" src="https://github.com/user-attachments/assets/58e5444b-f2e9-49f2-98a9-008c17a61196" />
+
+<img width="1920" height="906" alt="image" src="https://github.com/user-attachments/assets/f55418d6-11c7-4330-875c-6cf9c5b4794a" />
 
 🧑‍💻 How to Run
 Clone this repository:
