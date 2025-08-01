@@ -24,7 +24,7 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 
 ## 📁 Files Overview
 
-| File        | Description                |
+| File        | Description                 |
 |-------------|-----------------------------|
 | `Home.html` | Main game interface (HTML)  |
 | `Style.css` | Styles and layout (CSS)     |
@@ -32,42 +32,7 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 
 ---
 
-## 📸 Screenshot 
-# 🎮 Tic Tac Toe
-
-A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. This project allows two players to play turn by turn with real-time win/draw detection and a clean reset button.
-
----
-
-## 🛠️ Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 🚀 Features
-
-- 👥 Two-player game
-- ✅ Win & draw detection
-- 🔁 Reset board option
-- 📱 Fully responsive and mobile-friendly
-- 🎨 Clean & minimal UI
-
----
-
-## 📁 Files Overview
-
-| File        | Description                |
-|-------------|-----------------------------|
-| `Home.html` | Main game interface (HTML)  |
-| `Style.css` | Styles and layout (CSS)     |
-| `index.js`  | Game logic (JavaScript)     |
-
----
-
-## 📸 Screenshot (Optional)
+## 📸 Screenshot
 
 <img width="1920" height="896" alt="image" src="https://github.com/user-attachments/assets/e70683a3-14ca-48f4-a079-baf8af1b75bd" />
 <img width="1920" height="894" alt="image" src="https://github.com/user-attachments/assets/58e5444b-f2e9-49f2-98a9-008c17a61196" />
